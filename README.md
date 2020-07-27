@@ -9,5 +9,5 @@ Program for patching cracked accounts from locking themselves when used from a n
 * Run NordPatcher by clicking on the file. If windows prompts you saying it protected your pc and asking if it should run the file, click "More info" followed by "Run anyway".
 * After running, you can delete the .exe and reenable your AV.
 * Login to https://my.nordaccount.com/login/ using the details given to you, and download NordVPN.
-* Follow install process amd login with your account when prompted.
+* Follow install process and login with your account when prompted.
 * Enjoy!
