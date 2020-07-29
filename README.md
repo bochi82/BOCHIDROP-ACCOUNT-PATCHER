@@ -2,6 +2,8 @@
 
 Programs for patching cracked accounts from locking themselves when used from a new IP/HWID.
 
+The patcher for Crunchyroll (and others) is being written, and will be released soon.
+
 # Steps
 
 * Turn off your Antivirus (All cracking/hacking tools trigger AV's, but these are false positives. You can disable your AV by going into the software and finding settings. In the settings, turn off a feature called "Real-Time Protection".
