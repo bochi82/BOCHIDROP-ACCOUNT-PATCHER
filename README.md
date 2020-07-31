@@ -15,7 +15,7 @@ The patcher for Crunchyroll (and others) is being written, and will be released 
 # CHANGELOG
 v2.1 - 
 * Added CrunchyrollPatcher
-* Removed NordPatcher removed to fix false detections
+* Removed NordPatcher to fix false detections
 * FIXED FALSE CRUNCHYROLLPATCHER DETECTIONS FINALLY
        
 v2 -
