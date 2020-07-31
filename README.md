@@ -13,10 +13,13 @@ The patcher for Crunchyroll (and others) is being written, and will be released 
 * Login to your account and enjoy!
 
 # CHANGELOG
-v2.1 - Added CrunchyrollPatcher
-       Removed NordPatcher removed to fix false detections
-       FIXED FALSE CRUNCHYROLLPATCHER DETECTIONS FINALLY
+v2.1 - 
+* Added CrunchyrollPatcher
+* Removed NordPatcher removed to fix false detections
+* FIXED FALSE CRUNCHYROLLPATCHER DETECTIONS FINALLY
        
-v2 - Patcher manager introduced
+v2 -
+* Patcher manager introduced
 
-v1 - NordPatcher finisheD
+v1 - 
+* NordPatcher finished
