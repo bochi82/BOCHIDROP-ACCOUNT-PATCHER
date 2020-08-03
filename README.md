@@ -2,8 +2,6 @@
 
 Programs for patching cracked accounts from locking themselves when used from a new IP/HWID.
 
-The patcher for Crunchyroll (and others) is being written, and will be released soon.
-
 # Steps
 
 * Download the master file from this page. (If windows blocks it, type windows security in your searchbar in the bottom left. Then click the second option "Virus and threat protection settings". Turn off real time protection.
