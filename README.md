@@ -13,6 +13,9 @@ The patcher for Crunchyroll (and others) is being written, and will be released 
 * Login to your account and enjoy!
 
 # CHANGELOG
+v.3
+ADDED GUI FOR PATCHER MANAGERR
+
 v2.2 -
 * Readded NordPatcher
 * Fixed NordPatcher false positives
